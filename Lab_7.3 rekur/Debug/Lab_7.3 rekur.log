@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Lab_7.3 rekur\Lab_7.3 rekur\Source.cpp(57): warning C4715: 'Zero': not all control paths return a value
+C:\Users\User\source\repos\Lab_7.3 rekur\Lab_7.3 rekur\Source.cpp(67): warning C4715: 'Kilk': not all control paths return a value
+C:\Users\User\source\repos\Lab_7.3 rekur\Lab_7.3 rekur\Source.cpp(77): warning C4715: 'Character': not all control paths return a value
+  Lab_7.3 rekur.vcxproj -> C:\Users\User\source\repos\Lab_7.3 rekur\Debug\Lab_7.3 rekur.exe
